@@ -1,4 +1,5 @@
-basic syntax
+
+### basic syntax
 
 ```js
 console.log("hello javascript")
