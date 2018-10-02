@@ -1,4 +1,4 @@
-hello javscript
+basic syntax
 
 ```js
 console.log("hello javascript")
