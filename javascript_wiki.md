@@ -5,4 +5,4 @@
 console.log("hello javascript")
 ```
 
-### es6 staffs
+### functions
